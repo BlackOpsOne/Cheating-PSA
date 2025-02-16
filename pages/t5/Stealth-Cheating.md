@@ -82,4 +82,10 @@ Console can have stealth patches via GSC injector mod menus, but modifying the s
 > [!CAUTION]
 > This is impossible to detect, console is the weak link.
 
+## Shader Warming
+Shader warming can be used to splice a raw session or run very easily, as it is a completely static screen.
+
+> [!TIP]
+> There is a very simple solution to this, ban Shader Warming.
+
 # [Next Page: The Solution to Cheating](../Solution-to-Cheating.md)
