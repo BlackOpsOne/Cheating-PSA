@@ -46,6 +46,8 @@ This refers to the end of the last point of a modified Game Mod DLL with everyth
 > This DLL can be injected at any point in the game, and the custom `.ff` file can be swapped out and back in at any point too.
 >
 > In other words, someone can be legit one game, but cheating the next, and you would never know.
+>
+> This makes the showing of your files completely useless, the point of that rule was to prevent launching from a script containing this method.
 
 ## GSC Injectors
 These are external programs that inject GSC scripts mid game.
