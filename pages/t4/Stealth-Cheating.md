@@ -23,7 +23,7 @@ The following commands/Dvars can be modified or used to cheat:
 | `g_disable_zombie_grab`      |                             Toggles the "stickiness" effect that the zombies in this game have.                             |      `0`      |
 
 ## No Printing
-No printing refers to setting the dvar `cl_noprint` to `1`, this removes any printing at the top left from certain commands in Call of Duty.
+No printing refers to setting the dvar `cl_noprint` to `1`, this removes any printing at the top left from certain commands.
 
 > [!CAUTION]
 > This makes it impossible to know if someone is using God Mode, Demi God Mode, or No Target.
@@ -46,7 +46,7 @@ This refers to the use of external programs to write to the command buffer, to e
 Any of the base game `.ff` files in the `zone` folder can be modified with the use of fastfile extractors.
 
 > [!CAUTION]
-> If one were to modify one of the ones that are loaded for Zombies, they could hide anything they wanted in it.
+> If one were to modify one of the fastfiles that are loaded for Zombies, they could hide anything they wanted in it.
 
 ## GSC Injectors
 These are external programs that inject GSC scripts mid game.
@@ -67,6 +67,6 @@ The game executable itself can be modified to gain an advantage.
 Console can have stealth patches via GSC injector mod menus, but modifying the script to not be a mod menu but something that would provide an advantage, such as a better setup.
 
 > [!CAUTION]
-> This is impossible to detect, console is the weak link.
+> This is impossible to detect, console is a weak link.
 
 # [Next Page: Black Ops - Obvious Cheating](../t5/Obvious-Cheating.md)
