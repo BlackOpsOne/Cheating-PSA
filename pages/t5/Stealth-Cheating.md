@@ -25,7 +25,7 @@ The following commands/Dvars can be modified or used to cheat:
 | `g_banzai_player_fov_buffer`    |      Determines the fraction of a player's FOV that the game uses to determine if a zombie should despawn by distance.      |     `0.2`     |
 
 ## No Printing
-No printing refers to setting the dvar `cl_noprint` to `1`, this removes any printing at the top left from certain commands in Call of Duty.
+No printing refers to setting the dvar `cl_noprint` to `1`, this removes any printing at the top left from certain commands.
 
 > [!CAUTION]
 > This makes it impossible to know if someone is using God Mode, Demi God Mode, or No Target.
@@ -80,7 +80,7 @@ The game executable itself can be modified to gain an advantage.
 Console can have stealth patches via GSC injector mod menus, but modifying the script to not be a mod menu but something that would provide an advantage, such as a better setup.
 
 > [!CAUTION]
-> This is impossible to detect, console is the weak link.
+> This is impossible to detect, console is a weak link.
 
 ## Shader Warming
 Shader warming can be used to splice a raw session or run very easily, as it is a completely static screen.
