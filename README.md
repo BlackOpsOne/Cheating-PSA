@@ -2,7 +2,7 @@
 Important information about cheating in various Call of Duty Zombies titles.
 
 > [!WARNING]
-> This page is likely to be not fully complete as many cheating methods are often discovered in private. This page has the things that are publicly known about or have been used in records for each game. If a game is not listed here, it is likely still being researched for cheating methods.
+> This page is likely incomplete as many cheating methods are often discovered in private. This page has the things that are publicly known about or have been used in records for each game. If a game is not listed here, it is likely still being researched for cheating methods.
 
 ## Introduction
 This page aims to make people in the community aware that all Call of Duty Zombies games are at risk of cheating methods that are both obvious and the many stealth ones that exist.
