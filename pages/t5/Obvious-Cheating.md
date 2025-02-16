@@ -43,4 +43,4 @@ Game Mod is a mod loader for Black Ops, however heavily abused.
 > 
 > As an example: You can have 4 Gersh Devices or 5 Frag Grenades.
 
-# [Next Page: Black Ops - Stealth Cheating)](./Stealth-Cheating.md)
+# [Next Page: Black Ops - Stealth Cheating](./Stealth-Cheating.md)
