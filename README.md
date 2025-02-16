@@ -23,6 +23,3 @@ Please note, if games have been missed or not included here, it is because we ha
     - [Stealth Cheating](/pages/t5/Stealth-Cheating.md)
 
 - [The Solution to Cheating in Zombies](/pages/Solution-to-Cheating.md)
-
-## Outro
-This is just whats known, now imagine what could be hiding in private.
