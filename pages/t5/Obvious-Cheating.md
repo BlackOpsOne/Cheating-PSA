@@ -1,4 +1,4 @@
-## Black Ops: Obvious Cheating
+# Black Ops: Obvious Cheating
 
 ## God Mode
 This makes you invincible and unable to take any form of damage, and damage indicators will not appear.

@@ -1,4 +1,4 @@
-## Definitions - Fastfiles
+# Definitions - Fastfiles
 Fastfiles are a special compressed file that most older Call of Duty titles use to contain some of the following (not everything is mentioned due to irrelevance):
 
 - Models (determines the shape weapons and map objects)
