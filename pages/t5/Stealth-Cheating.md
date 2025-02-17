@@ -43,11 +43,13 @@ This refers to the use of Game Mod, and using a custom `.ff` file in the form of
 This refers to the end of the last point of a modified Game Mod DLL with everything except the map override fastfile loading removed.
 
 > [!CAUTION]
-> This DLL can be injected at any point in the game, and the custom `.ff` file can be swapped out and back in at any point too.
+> This DLL can be injected at any point in the game, and the custom `.ff` file can be swapped out and back in at any point.
 >
 > In other words, someone can be legit one game, but cheating the next, and you would never know.
 >
 > This makes the showing of your files completely useless, the point of that rule was to prevent launching from a script containing this method.
+>
+> The only way to detect this is via an external program checking the game's memory and loaded DLL files.
 
 ## GSC Injectors
 These are external programs that inject GSC scripts mid game.
