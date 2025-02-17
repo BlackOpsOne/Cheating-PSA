@@ -66,8 +66,10 @@ This refers to the use of external programs to write to the command buffer, to e
 ## Custom BGamer Launchers
 Launching the game from certain BGamer launchers will inject the Stealth Patch DLL method mentioned [here](#stealth-patching---dll-injection).
 
-> [!TIP]
-> This can be detected by watching how a player launches the game as the file estimated file size of the launcher will be shown. They must show themselves launching via the game's executable file regardless.
+> [!WARNING]
+> This can be detected but there are ways to spoof the date modified and the estimated kilobytes size can be inflated as well.
+>
+> You would need to show the file properties to know the exact amount of bytes.
 
 ## Custom Game Executables
 The game executable itself can be modified to gain an advantage.
