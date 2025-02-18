@@ -43,4 +43,10 @@ Game Mod is a mod loader for Black Ops, however heavily abused.
 > 
 > As an example: You can have 4 Gersh Devices or 5 Frag Grenades.
 
+## Missing Hostname
+Missing hostname text on the scoreboard (typically `BlackOpsZombie` or `BGamerZombie` depending on how the game is played) indicates the use of Game Mod.
+
+> [!WARNING]
+> There are commands to bring this text back.
+
 # [Next Page: Black Ops - Stealth Cheating](./Stealth-Cheating.md)
