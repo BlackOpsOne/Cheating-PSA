@@ -92,4 +92,12 @@ Shader warming can be used to splice a raw session or run very easily, as it is 
 > [!TIP]
 > There is a very simple solution to this, ban Shader Warming.
 
+## Patch Insertion Programs
+Players have created programs to place both modified and vanilla fastfiles in the `zone` folder.
+
+> [!WARNING]
+> This does appear to place vanilla files into the game if a player selects it.
+>
+> This is a semi private tool, we have no idea whats in the custom fastfiles from it, any tool that does this can potentially put any kind of patch in the game.
+
 # [Next Page: The Solution to Cheating](../Solution-to-Cheating.md)
