@@ -96,8 +96,8 @@ Shader warming can be used to splice a raw session or run very easily, as it is 
 Players have created programs to place both modified and vanilla fastfiles in the `zone` folder.
 
 > [!WARNING]
-> This does appear to place vanilla files into the game if a player selects it.
+> This does appear to place vanilla files into the game if a player selects it. However, I must reiterate that vanilla fastfiles can be modified with zero indication that they've been modified.
 >
-> This is a semi private tool, we have no idea whats in the custom fastfiles from it, any tool that does this can potentially put any kind of patch in the game.
+> This is a semi private tool, we have no idea whats in the fastfiles from it. Any tool that does this can put any kind of patch in the game.
 
 # [Next Page: The Solution to Cheating](../Solution-to-Cheating.md)
