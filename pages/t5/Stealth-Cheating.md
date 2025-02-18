@@ -67,7 +67,7 @@ This refers to the use of external programs to write to the command buffer, to e
 Launching the game from certain BGamer launchers that have been modified by players is known to inject the Stealth Patch DLL mentioned [here](#stealth-patching---dll-injection).
 
 > [!WARNING]
-> This can be detected but there are ways to spoof the date modified and the estimated kilobytes size can be inflated as well.
+> This can be detected but there are ways to spoof the date modified. The estimated file size can remain the same as well as it doesn't take much to modify the launcher.
 >
 > You would need to show the file properties to know the exact amount of bytes.
 
