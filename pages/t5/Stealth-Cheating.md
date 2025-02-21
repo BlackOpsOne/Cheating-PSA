@@ -1,4 +1,4 @@
-# Black Ops: Stealth Cheating
+# Black Ops - Stealth Cheating
 
 ## Dvars/Commands
 The following commands/Dvars can be modified or used to cheat:
@@ -6,6 +6,7 @@ The following commands/Dvars can be modified or used to cheat:
 | Name                            |                                                         Description                                                         | Default Value |
 | :------------------------------ | :-------------------------------------------------------------------------------------------------------------------------: | :-----------: |
 | `cl_noprint`                    |                                Stops printing on the screen when certain commands are used.                                 |      `0`      |
+| `sv_cheats`                     |                  Toggles the use of cheats like god mode. On solo this is set to `1` by default it seems.                   |      `0`      |
 | `magic_chest_movable`           |                       Determines if the box can move or not. This is set to `0` on Nacht Der Untoten.                       |      `1`      |
 | `ai_disableSpawn`               |                                              Stops the zombies from spawning.                                               |      `0`      |
 | `zombie_reachin_freq`           |                               How often the zombies can reach through a window and slap you.                                |     `50`      |
@@ -23,9 +24,20 @@ The following commands/Dvars can be modified or used to cheat:
 | `scr_force_weapon`              |             Sets the weapon you want out of the box, this is only usable when `developer_script` is set to `1`.             |      ` `      |
 | `scr_force_quantum_bomb_result` |        Sets the result you want out of the QEDs on Moon, this is only usable when `developer_script` is set to `1`.         |      ` `      |
 | `g_banzai_player_fov_buffer`    |      Determines the fraction of a player's FOV that the game uses to determine if a zombie should despawn by distance.      |     `0.2`     |
+| `jump_height`                   |                                          The height that the player will jump at.                                           |     `39`      |
+| `jump_stepSize`                 |                                The max you can step up to the top of a jump arc or platform.                                |     `18`      |
+| `cl_dtpHoldTime`                |                 The amount of milliseconds you must hold the `Change Stance` key in order to dolphin dive.                  |     `200`     |
+| `dtp_exhaustion_window`         |                               The amount of milliseconds you must wait to dolphin dive again.                               |    `1500`     |
+| `dtp_fall_damage_max_height`    |                               The max height you must dolphin dive from to take fall damage.                                |     `200`     |
+| `dtp_fall_damage_min_height`    |             The min height you must dolphin dive from to take fall damage, PHD Flopper will also activate here.             |     `65`      |
+| `dtp_min_speed`                 |                        The minimum speed you must be running at to start or sustain a dolphin dive.                         |    `3.16`     |
+| `dtp_new_trajectory`            |                                     Toggles the new dolphin diving trajectory equation.                                     |      `1`      |
+| `dtp_new_trajectory_multiplier` |                                         The multiplier for the new dive trajectory.                                         |      `2`      |
+| `dtp_post_move_pause`           |                            The amount of milliseconds that you can not move for after flopping.                             |     `100`     |
+| `dtp_startup_delay`             |                         Determines how long the player has to sprint for in order to dolphin dive.                          |     `250`     |
 
 ## No Printing
-No printing refers to setting the dvar `cl_noprint` to `1`, this removes any printing at the top left from certain commands.
+No printing refers to setting the dvar `cl_noprint` to `1`, this removes any on screen messages such as god mode toggle states.
 
 > [!CAUTION]
 > This makes it impossible to know if someone is using God Mode, Demi God Mode, or No Target.
@@ -45,9 +57,7 @@ This refers to the end of the last point of a modified Game Mod DLL with everyth
 > [!CAUTION]
 > This DLL can be injected at any point in the game, and the custom `.ff` file can be swapped out and back in at any point.
 >
-> In other words, someone can be legit one game, but cheating the next, and you would never know.
->
-> This makes the showing of your files completely useless, the point of that rule was to prevent launching from a script containing this method.
+> This makes the showing of your files completely useless, the point of that rule was to prevent launching from a third party launcher containing this method.
 >
 > The only way to detect this is via an external program checking the game's memory and loaded DLL files.
 
@@ -63,6 +73,12 @@ This refers to the use of external programs to write to the command buffer, to e
 > [!CAUTION]
 > The only way to detect this is via an external program checking the game's memory.
 
+## Zolfernos
+Zolfernos is a trainer for Black Ops Zombies, it allows you to write to memory on a multitude of different levels.
+
+> [!CAUTION]
+> This is undetectable and changes multiple aspects of the game.
+
 ## Custom BGamer Launchers
 Launching the game from certain BGamer launchers that have been modified by players is known to inject the Stealth Patch DLL mentioned [here](#stealth-patching---dll-injection).
 
@@ -74,17 +90,15 @@ Launching the game from certain BGamer launchers that have been modified by play
 ## Custom Game Executables
 The game executable itself can be modified to gain an advantage.
 
-> [!WARNING]
-> It is unknown if this detectable by simply looking at the file's size or hash, since no one ever has the same executable.
-
 > [!CAUTION]
-> The only way to detect this is via an external program checking all relevant game functions.
+> This can lead to a multitude of changes that are not possible via a patch.
+> The only way to detect this is via an external program checking all relevant game functions. Checking hashes will not work due to how Steam downloads files, the game executable is never the same for some reason.
 
 ## Console Stealth Patching
 Console can have stealth patches via GSC injector mod menus, but modifying the script to not be a mod menu but something that would provide an advantage, such as a better setup.
 
 > [!CAUTION]
-> This is impossible to detect, console is a weak link.
+> This is impossible to detect, as console can not have a reliable anticheat.
 
 ## Shader Warming
 Shader warming can be used to splice a raw session or run very easily, as it is a completely static screen.
@@ -100,4 +114,4 @@ Players have created programs to place both modified and vanilla fastfiles in th
 >
 > This is a semi private tool, we have no idea whats in the fastfiles from it. Any tool that does this can put any kind of patch in the game.
 
-# [Next Page: The Solution to Cheating](../Solution-to-Cheating.md)
+# [Next Page: Black Ops II - Cheating](../t6/Cheating.md)

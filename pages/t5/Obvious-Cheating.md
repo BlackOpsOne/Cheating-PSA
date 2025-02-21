@@ -1,4 +1,4 @@
-# Black Ops: Obvious Cheating
+# Black Ops - Obvious Cheating
 
 ## God Mode
 This makes you invincible and unable to take any form of damage, and damage indicators will not appear.
@@ -13,10 +13,10 @@ This works exactly how the normal god mode does, except you will receive the dam
 > You can toggle demi god mode with the `demigod` command.
 
 ## No Target
-This toggles the targeting of zombies to a player.
+This toggles all AI targeting of the player.
 
 > [!TIP]
-> You can toggle demi god mode with the `notarget` command.
+> You can toggle no target with the `notarget` command.
 
 > [!CAUTION]
 > This affects monkey bombs and the upgraded crossbow, as it will make zombies target the weapon faster.

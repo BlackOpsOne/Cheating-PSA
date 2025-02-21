@@ -1,4 +1,4 @@
-# World at War: Obvious Cheating
+# World at War - Obvious Cheating
 
 ## God Mode
 This makes you invincible and unable to take any form of damage, and damage indicators will not appear.
@@ -19,7 +19,7 @@ This toggles the targeting of zombies to a player.
 > You can toggle demi god mode with the `notarget` command.
 
 > [!CAUTION]
-> This affects monkey bombs, as it will make zombies target the weapon faster.
+> This affects monkey bombs, as it will make zombies target them faster.
 
 ## Mods
 The ingame mod system transfers certain aspects of custom maps.
