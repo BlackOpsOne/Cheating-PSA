@@ -11,6 +11,6 @@ Pretty much anything, you can modify your box luck, or go even further and modif
 Cheat Engine is a tool that allows you to read and write from memory, you can extract information from the game such as the next special round, and even change it.
 
 > [!CAUTION]
-> This is undetectable without the use of a third party program searching for it. You could also protect the game's memory externally, but that could potentially cause issues for any new community made tools.
+> This is undetectable without the use of a third party program searching for it. You could also protect the game's memory externally, but that could potentially cause issues for any community made tools.
 
 # [Next Page: The Solutions to Cheating in Zombies](/pages/Solutions-to-Cheating.md)
