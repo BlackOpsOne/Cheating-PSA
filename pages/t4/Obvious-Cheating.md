@@ -22,9 +22,7 @@ This toggles the targeting of zombies to a player.
 > This affects monkey bombs, as it will make zombies target them faster.
 
 ## Mods
-The ingame mod system transfers certain aspects of custom maps.
-
-Once you load a mod, quit out and load a normal zombies map.
+The ingame mod system transfers certain aspects of custom maps to normal zombies maps.
 
 > [!CAUTION]
 > While obvious on some stuff, this can easily be abused to become a form of stealth cheating.
