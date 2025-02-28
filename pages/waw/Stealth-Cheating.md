@@ -30,6 +30,12 @@ No printing refers to setting the dvar `cl_noprint` to `1`, this removes any on 
 > [!CAUTION]
 > This makes it impossible to know if someone is using God Mode, Demi God Mode, or No Target.
 
+## Ingame Save States
+The game has a command called `devsave` that saves the exact state of a game at any certain point, however the entity counter does not reset back to what it was.
+
+> [!WARNING]
+> This can be detected if the game is being streamed live. However if the game is played offline, combined with no printing, this is impossible to detect.
+
 ## Stealth Patching
 Stealth patching is exactly what it sounds like, a patch with no indication that it is being used or that it exists, with intention of modifying the game as an advantage.
 
