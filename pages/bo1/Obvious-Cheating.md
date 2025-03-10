@@ -36,12 +36,26 @@ This refers to modification of any fastfile with the naming scheme `(map_name)_p
 > This makes audio for games important.
 
 ## Game Mod
-Game Mod is a mod loader for Black Ops, however heavily abused.
+Game Mod is a mod loader for Black Ops, however heavily abused, and the source code is publicly available.
 
 > [!CAUTION]
-> This completely modifies the game in ways that make it not vanilla.
+> Game Mod modifies the game in such a way that makes the game completely different, even with no mod loaded.
+> 
+> For example, explosives in certain situations will not damage you where in the base game it would. This would make situations 
 > 
 > As an example: You can have 4 Gersh Devices or 5 Frag Grenades.
+
+## Missing Starting Cutscene
+When you open the the base version of Black Ops, the "Treyarch/Activision presents" cutscene will appear, but on Game Mod this is completely removed.
+
+> [!TIP]
+> This can be detected by simply showing the intro cutscene, but would require the full session.
+
+## Mod Loaded Text
+When you load a map with a mod loaded, text will appear on the top right, displaying which mod is loaded.
+
+> [!WARNING]
+> If the top right is covered, this is a good indicator that they are using Game Mod.
 
 ## Missing Hostname
 Missing hostname text on the scoreboard (typically `BlackOpsZombie` or `BGamerZombie` depending on how the game is played) indicates the use of Game Mod.
