@@ -41,7 +41,7 @@ Game Mod is a mod loader for Black Ops, however heavily abused, and the source c
 > [!CAUTION]
 > Game Mod modifies the game in such a way that makes the game completely different, even with no mod loaded.
 > 
-> For example, explosives in certain situations will not damage you where in the base game it would. This would make situations 
+> For example, explosives in certain situations will not damage you where in the base game it would.
 > 
 > As an example: You can have 4 Gersh Devices or 5 Frag Grenades.
 
