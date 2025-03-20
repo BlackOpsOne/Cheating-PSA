@@ -49,7 +49,7 @@ The game has a command called `devsave` that saves the exact state of a game at 
 > This can be detected if the game is being streamed live. However if the game is played offline, combined with no printing, this is impossible to detect.
 
 ## Stealth Patching - Game Mod
-This refers to the use of Game Mod, and using a custom `.ff` file in the form of a map patch, but with `_override.ff` at the end of the file instead of just `_patch.ff`.
+This refers to the use of Game Mod combined with a custom fastfile in the form of a map patch, but with the suffix `_override.ff` in the file name, instead of just `_patch.ff`.
 
 > [!TIP]
 > This can be detected by watching how a player launches the game. It must be via the game's executable file.
@@ -61,7 +61,7 @@ This refers to the use of Game Mod, and using a custom `.ff` file in the form of
 This refers to the end of the last point of a modified Game Mod DLL with everything except the map override fastfile loading removed.
 
 > [!CAUTION]
-> This DLL can be injected at any point in the game, and the custom `.ff` file can be swapped out and back in at any point.
+> This DLL can be injected at any point in the game and the custom fastfile can be swapped out/in at any point.
 >
 > This makes the showing of your files completely useless, the point of that rule was to prevent launching from a third party launcher containing this method.
 >

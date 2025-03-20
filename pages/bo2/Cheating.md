@@ -7,7 +7,7 @@ The following commands/Dvars can be modified or used to cheat:
 | Name                            |                                                         Description                                                         | Default Value |
 | :------------------------------ | :-------------------------------------------------------------------------------------------------------------------------: | :-----------: |
 | `con_gameMsgWindow0MsgTime`     |                        The amount of time that god mode and other printed messages will appear for.                         |      `5`      |
-| `sv_cheats`                     |                                          Toggles the use of cheats like god mode.                                           |      `0`      |
+| `sv_cheats`                     |                                          Toggles the use of cheats like god mode.                                           |      `1`      |
 | `magic_chest_movable`           |                       Determines if the box can move or not. This is set to `0` on Nacht Der Untoten.                       |      `1`      |
 | `ai_disableSpawn`               |                                              Stops the zombies from spawning.                                               |      `0`      |
 | `zombie_reachin_freq`           |                               How often the zombies can reach through a window and slap you.                                |     `50`      |
@@ -62,6 +62,8 @@ This refers to the use of external programs to write to the command buffer, to e
 
 > [!CAUTION]
 > The god mode state can be activated via a script.
+> 
+> The only way to detect this is via an external program checking the game's memory.
 
 ## Custom Game Executables
 The game executable itself can be modified to gain an advantage.
@@ -78,4 +80,4 @@ Console can have stealth patches via GSC injector mod menus, but modifying the s
 > [!CAUTION]
 > This is impossible to detect, as console can not have a reliable anticheat.
 
-# [Next Page: Important Notes](../Important-Notes.md)
+# [Next Page: Black Ops III - Obvious Cheating](../bo3/Obvious-Cheating.md)

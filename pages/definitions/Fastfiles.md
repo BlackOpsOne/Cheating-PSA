@@ -9,4 +9,4 @@ Fastfiles are a special compressed file that most older Call of Duty titles use 
 
 There are many tools that exist for decompressing and recompressing these files, some are not perfect and make it obvious to tell if you have, however there are a few that make editing these impossible to tell.
 
-# [Next Page: World at War - Obvious Cheating](../waw/Obvious-Cheating.md)
+# [Next Page: Definitions - Patch Checksums](./Patch-Checksums.md)

@@ -10,23 +10,10 @@ Important information about cheating in various Call of Duty Zombies titles.
 This page aims to make people in the community aware that all Call of Duty Zombies games are at risk of cheating methods that are both obvious and undetectable. The intention is not to provide ways to cheat, but to make people aware of them and how they work.
 
 ## Table of Contents
-- [Definitions - Dvars](/pages/definitions/Dvars.md)
-
-- [Definitions - Fastfiles](/pages/definitions/Fastfiles.md)
-
-- [Definitions - Patch Checksums](/pages/definitions/Patch-Checksums.md)
-
-- Games - World at War
-    - [Obvious Cheating](/pages/waw/Obvious-Cheating.md)
-    - [Stealth Cheating](/pages/waw/Stealth-Cheating.md)
-
-- Games - Black Ops
-    - [Obvious Cheating](/pages/bo1/Obvious-Cheating.md)
-    - [Stealth Cheating](/pages/bo1/Stealth-Cheating.md)
-
-- Games - Black Ops II
-    - [Cheating](/pages/bo2/Cheating.md)
-
+- [Important Definitions](/pages/definitions/Definitions.md)
+- [Games - World at War](/pages/waw/World-at-War.md)
+- [Games - Black Ops](/pages/bo1/Black-Ops.md)
+- [Games - Black Ops II](/pages/bo2/Black-Ops-II.md)
+- [Games - Black Ops III](/pages/bo3/Black-Ops-III.md)
 - [Important Notes](/pages/Important-Notes.md)
-
 - [The Solutions to Cheating in Zombies](/pages/Solutions-to-Cheating.md)

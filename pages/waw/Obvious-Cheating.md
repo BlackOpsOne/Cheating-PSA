@@ -1,7 +1,7 @@
 # World at War - Obvious Cheating
 
 ## God Mode
-This makes you invincible and unable to take any form of damage, and damage indicators will not appear.
+This makes you invincible and unable to take any form of damage. Damage indicators will also not appear.
 
 > [!TIP]
 > You can toggle god mode with the `god` command.

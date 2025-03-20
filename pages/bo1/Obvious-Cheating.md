@@ -1,7 +1,7 @@
 # Black Ops - Obvious Cheating
 
 ## God Mode
-This makes you invincible and unable to take any form of damage, and damage indicators will not appear.
+This makes you invincible and unable to take any form of damage. Damage indicators will also not appear.
 
 > [!TIP]
 > You can toggle god mode with the `god` command.
@@ -25,15 +25,16 @@ This toggles all AI targeting of the player.
 This is referring to modification of `common_zombie_patch.ff`. Once this file is extracted with a certain extractor, the animation for drinking a perk will be reverted to the World at War animation.
 
 > [!CAUTION]
-> There are extractors exist that keep this animation intact, and are publicly available, just because an animation is normal does not mean this file is unmodified.
->
-> It is also important to note that `.ff` files can be swapped between map restarts, showing the `zone` folder does absolutely nothing.
+> There are publicly available tools that keep this animation intact once the fastfile is recompiled.
 
 ## Map Patching
 This refers to modification of any fastfile with the naming scheme `(map_name)_patch.ff`. Once this file is extracted with an extractor, certain sounds when drinking perks will play twice.
 
 > [!WARNING]
 > This makes audio for games important.
+
+> [!CAUTION]
+> There are publicly available tools that keep the sounds intact once the fastfile is recompiled.
 
 ## Game Mod
 Game Mod is a mod loader for Black Ops, however heavily abused, and the source code is publicly available.
