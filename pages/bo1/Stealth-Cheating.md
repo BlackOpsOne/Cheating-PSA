@@ -67,6 +67,14 @@ This refers to the end of the last point of a modified Game Mod DLL with everyth
 >
 > The only way to detect this is via an external program checking the game's memory and loaded DLL files.
 
+## Stealth Patching - Existing FF Modification
+There exists tools to compile a new fastfile while including all the assets from an original game file.
+
+This keeps animations and sounds intact.
+
+> [!CAUTION]
+> The file size of this will be lower, effectively reducing any ingame errors such as box error.
+
 ## Dvar/Command Writing
 This refers to the use of external programs to write to the command buffer, to either set a certain dvar or run a certain command.
 
