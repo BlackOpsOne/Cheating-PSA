@@ -67,12 +67,6 @@ This refers to the end of the last point of a modified Game Mod DLL with everyth
 >
 > The only way to detect this is via an external program checking the game's memory and loaded DLL files.
 
-## GSC Injectors
-These are external programs that inject GSC scripts mid game.
-
-> [!CAUTION]
-> There is no way to detect this without an external program hooking into the game.
-
 ## Dvar/Command Writing
 This refers to the use of external programs to write to the command buffer, to either set a certain dvar or run a certain command.
 
