@@ -4,31 +4,31 @@ Since this game has a small amount of obvious methods, which are able to be made
 ## Dvars/Commands
 The following commands/Dvars can be modified or used to cheat:
 
-| Name                            |                                                         Description                                                         | Default Value |
-| :------------------------------ | :-------------------------------------------------------------------------------------------------------------------------: | :-----------: |
-| `con_gameMsgWindow0MsgTime`     |                        The amount of time that god mode and other printed messages will appear for.                         |      `5`      |
-| `sv_cheats`                     |                                          Toggles the use of cheats like god mode.                                           |      `1`      |
-| `magic_chest_movable`           |                       Determines if the box can move or not. This is set to `0` on Nacht Der Untoten.                       |      `1`      |
-| `ai_disableSpawn`               |                                              Stops the zombies from spawning.                                               |      `0`      |
-| `zombie_reachin_freq`           |                               How often the zombies can reach through a window and slap you.                                |     `50`      |
-| `zombie_taunt_freq`             |                          How often the zombies will taunt at the window after ripping a part off.                           |      `5`      |
-| `player_reviveTriggerRadius`    |                                    The radius of which you can revive another player at.                                    |     `64`      |
-| `g_speed`                       |                                        The speed of how quickly you can move around.                                        |     `190`     |
-| `timescale`                     |                                   Speeds up both the server and client side of the game.                                    |      `1`      |
-| `ai_corpseCount`                | Controls the amount of corpses that can be on the map at one time. This can be as low as `3` with the "Corpse Size" option. |      `5`      |
-| `developer_script`              |            Toggles specific code that was left in by the developers for debugging, but can be abused by players.            |      `0`      |
-| `scr_force_weapon`              |             Sets the weapon you want out of the box, this is only usable when `developer_script` is set to `1`.             |      ` `      |
-| `g_banzai_player_fov_buffer`    |      Determines the fraction of a player's FOV that the game uses to determine if a zombie should despawn by distance.      |     `0.2`     |
-| `jump_height`                   |                                          The height that the player will jump at.                                           |     `39`      |
-| `jump_stepSize`                 |                                The max you can step up to the top of a jump arc or platform.                                |     `18`      |
-| `dtp_exhaustion_window`         |                               The amount of milliseconds you must wait to dolphin dive again.                               |    `1500`     |
-| `dtp_fall_damage_max_height`    |                               The max height you must dolphin dive from to take fall damage.                                |     `200`     |
-| `dtp_fall_damage_min_height`    |             The min height you must dolphin dive from to take fall damage, PHD Flopper will also activate here.             |     `100`     |
-| `dtp_min_speed`                 |                        The minimum speed you must be running at to start or sustain a dolphin dive.                         |    `3.16`     |
-| `dtp_new_trajectory`            |                                     Toggles the new dolphin diving trajectory equation.                                     |      `1`      |
-| `dtp_new_trajectory_multiplier` |                                         The multiplier for the new dive trajectory.                                         |      `2`      |
-| `dtp_post_move_pause`           |                            The amount of milliseconds that you can not move for after flopping.                             |     `100`     |
-| `dtp_startup_delay`             |                         Determines how long the player has to sprint for in order to dolphin dive.                          |     `250`     |
+| Name                            |                                                         Description                                                         |
+| :------------------------------ | :-------------------------------------------------------------------------------------------------------------------------: |
+| `con_gameMsgWindow0MsgTime`     |                        The amount of time that god mode and other printed messages will appear for.                         |
+| `sv_cheats`                     |                                          Toggles the use of cheats like god mode.                                           |
+| `magic_chest_movable`           |                       Determines if the box can move or not. This is set to `0` on Nacht Der Untoten.                       |
+| `ai_disableSpawn`               |                                              Stops the zombies from spawning.                                               |
+| `zombie_reachin_freq`           |                               How often the zombies can reach through a window and slap you.                                |
+| `zombie_taunt_freq`             |                          How often the zombies will taunt at the window after ripping a part off.                           |
+| `player_reviveTriggerRadius`    |                                    The radius of which you can revive another player at.                                    |
+| `g_speed`                       |                                        The speed of how quickly you can move around.                                        |
+| `timescale`                     |                                   Speeds up both the server and client side of the game.                                    |
+| `ai_corpseCount`                | Controls the amount of corpses that can be on the map at one time. This can be as low as `3` with the "Corpse Size" option. |
+| `developer_script`              |            Toggles specific code that was left in by the developers for debugging, but can be abused by players.            |
+| `scr_force_weapon`              |             Sets the weapon you want out of the box, this is only usable when `developer_script` is set to `1`.             |
+| `g_banzai_player_fov_buffer`    |      Determines the fraction of a player's FOV that the game uses to determine if a zombie should despawn by distance.      |
+| `jump_height`                   |                                          The height that the player will jump at.                                           |
+| `jump_stepSize`                 |                                The max you can step up to the top of a jump arc or platform.                                |
+| `dtp_exhaustion_window`         |                               The amount of milliseconds you must wait to dolphin dive again.                               |
+| `dtp_fall_damage_max_height`    |                               The max height you must dolphin dive from to take fall damage.                                |
+| `dtp_fall_damage_min_height`    |             The min height you must dolphin dive from to take fall damage, PHD Flopper will also activate here.             |
+| `dtp_min_speed`                 |                        The minimum speed you must be running at to start or sustain a dolphin dive.                         |
+| `dtp_new_trajectory`            |                                     Toggles the new dolphin diving trajectory equation.                                     |
+| `dtp_new_trajectory_multiplier` |                                         The multiplier for the new dive trajectory.                                         |
+| `dtp_post_move_pause`           |                            The amount of milliseconds that you can not move for after flopping.                             |
+| `dtp_startup_delay`             |                         Determines how long the player has to sprint for in order to dolphin dive.                          |
 
 ## No Printing
 No printing refers to setting the dvar `con_gameMsgWindow0MsgTime` to `0`, this removes any on screen messages such as god mode toggle states.

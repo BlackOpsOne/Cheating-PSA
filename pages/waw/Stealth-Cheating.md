@@ -3,26 +3,26 @@
 ## Dvars/Commands
 The following commands/Dvars can be modified or used to cheat:
 
-| Name                         |                                                         Description                                                         | Default Value |
-| :--------------------------- | :-------------------------------------------------------------------------------------------------------------------------: | :-----------: |
-| `cl_noprint`                 |                                Stops printing on the screen when certain commands are used.                                 |      `0`      |
-| `magic_chest_movable`        |                         Determines if the box can move or not. Does not exist on Nacht Der Untoten.                         |      `1`      |
-| `ai_disableSpawn`            |                                              Stops the zombies from spawning.                                               |      `0`      |
-| `zombie_reachin_freq`        |                               How often the zombies can reach through a window and slap you.                                |     `50`      |
-| `zombie_taunt_freq`          |                          How often the zombies will taunt at the window after ripping a part off.                           |      `5`      |
-| `cg_hudDamageIconTime`       |                                     How long the damage indicator is on the screen for.                                     |    `2000`     |
-| `player_reviveTriggerRadius` |                                    The radius of which you can revive another player at.                                    |     `64`      |
-| `g_speed`                    |                                        The speed of how quickly you can move around.                                        |     `190`     |
-| `sv_fps`                     |                       The rate that the internal server updates at, the client does not get affected.                       |     `20`      |
-| `timescale`                  |                                   Speeds up both the server and client side of the game.                                    |      `1`      |
-| `ai_corpseCount`             | Controls the amount of corpses that can be on the map at one time. This can be as low as `3` with the "Corpse Size" option. |      `5`      |
+| Name                         |                                                         Description                                                         |
+| :--------------------------- | :-------------------------------------------------------------------------------------------------------------------------: |
+| `cl_noprint`                 |                                Stops printing on the screen when certain commands are used.                                 |
+| `magic_chest_movable`        |                         Determines if the box can move or not. Does not exist on Nacht Der Untoten.                         |
+| `ai_disableSpawn`            |                                              Stops the zombies from spawning.                                               |
+| `zombie_reachin_freq`        |                               How often the zombies can reach through a window and slap you.                                |
+| `zombie_taunt_freq`          |                          How often the zombies will taunt at the window after ripping a part off.                           |
+| `cg_hudDamageIconTime`       |                                     How long the damage indicator is on the screen for.                                     |
+| `player_reviveTriggerRadius` |                                    The radius of which you can revive another player at.                                    |
+| `g_speed`                    |                                        The speed of how quickly you can move around.                                        |
+| `sv_fps`                     |                       The rate that the internal server updates at, the client does not get affected.                       |
+| `timescale`                  |                                   Speeds up both the server and client side of the game.                                    |
+| `ai_corpseCount`             | Controls the amount of corpses that can be on the map at one time. This can be as low as `3` with the "Corpse Size" option. |
 | `difficultyEasy`             |      Sets your difficulty to "Recruit", this makes you take less trap damage but makes your health regenerate slower.       |
 | `difficultyHard`             | Sets your difficulty to "Hardened", this makes you take slightly more trap damage but makes your health regenerate faster.  |
 | `difficultyFu`               | Sets your difficulty to "Veteran", this makes you take a lot more trap damage but makes your health regenerate way faster.  |
-| `developer_script`           |            Toggles specific code that was left in by the developers for debugging, but can be abused by players.            |      `0`      |
-| `g_disable_zombie_grab`      |                             Toggles the "stickiness" effect that the zombies in this game have.                             |      `0`      |
-| `jump_height`                |                                          The height that the player will jump at.                                           |     `39`      |
-| `jump_stepSize`              |                                The max you can step up to the top of a jump arc or platform.                                |     `18`      |
+| `developer_script`           |            Toggles specific code that was left in by the developers for debugging, but can be abused by players.            |
+| `g_disable_zombie_grab`      |                             Toggles the "stickiness" effect that the zombies in this game have.                             |
+| `jump_height`                |                                          The height that the player will jump at.                                           |
+| `jump_stepSize`              |                                The max you can step up to the top of a jump arc or platform.                                |
 
 ## No Printing
 No printing refers to setting the dvar `cl_noprint` to `1`, this removes any on screen messages such as god mode toggle states.
