@@ -31,7 +31,7 @@ The following commands/Dvars can be modified or used to cheat:
 | `dtp_startup_delay`             |                         Determines how long the player has to sprint for in order to dolphin dive.                          |
 
 ## No Printing
-No printing refers to setting the dvar `con_gameMsgWindow0MsgTime` to `0`, this removes any on screen messages such as god mode toggle states.
+No printing refers to setting the Dvar `con_gameMsgWindow0MsgTime` to `0`, this removes any on screen messages such as god mode toggle states.
 
 > [!TIP]
 > The state of this is not retained in demos, likely because they are client based Dvars and not server based.
@@ -43,7 +43,7 @@ No printing refers to setting the dvar `con_gameMsgWindow0MsgTime` to `0`, this 
 The community has created patches that have legitimate use cases such as automatic timers, however there are recompiled versions of them floating around that contain ways to cheat, such as increased box luck on survival maps.
 
 > [!TIP]
-> This is detectable via [patch checksums](../definitions/Patch-Checksums.md).
+> This is detectable via the [Plutonium Checksums](Plutonium-Checksums.md) feature.
 
 > [!CAUTION]
 > Unofficial versions of community patches can include more than just what the base patch has, such as modified luck on many aspects of the game.
@@ -55,7 +55,7 @@ A player can create their own scripts and put them into the scripts folder in or
 > On versions of Black Ops II that do not contain the checksums feature, this is undetectable.
 
 ## Dvar/Command Writing
-This refers to the use of external programs to write to the command buffer, to either set a certain dvar or run a certain command.
+This refers to the use of external programs to write to the command buffer to either set a certain Dvar to a custom value or run a certain command.
 
 > [!TIP]
 > Some patches will detect when certain Dvars are changed, such as `sv_cheats`.

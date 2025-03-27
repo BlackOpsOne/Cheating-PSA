@@ -25,7 +25,7 @@ The following commands/Dvars can be modified or used to cheat:
 | `jump_stepSize`              |                                The max you can step up to the top of a jump arc or platform.                                |
 
 ## No Printing
-No printing refers to setting the dvar `cl_noprint` to `1`, this removes any on screen messages such as god mode toggle states.
+No printing refers to setting the Dvar `cl_noprint` to `1`, this removes any on screen messages such as god mode toggle states.
 
 > [!CAUTION]
 > This makes it impossible to know if someone is using God Mode, Demi God Mode, or No Target.
@@ -45,7 +45,7 @@ The only ways that this is done on World at War, is via Plutonium with scripts, 
 > Since the scripts that players put into the game are not compiled, any player can edit and remove printing of any kind that would indicate a type of patch being used.
 
 ## Dvar/Command Writing
-This refers to the use of external programs to write to the command buffer, to either set a certain dvar or run a certain command.
+This refers to the use of external programs to write to the command buffer to either set a certain Dvar or run a certain command.
 
 > [!CAUTION]
 > The only way to detect this is via an external program checking the game's memory.

@@ -38,7 +38,7 @@ There exists a mod for setting a specific rng seed, this mod allows you to modif
 > This is completely undetectable without a program specifically searching for it.
 
 ## Dvar/Command Writing
-This refers to the use of external programs to write to the command buffer, to either set a certain dvar or run a certain command.
+This refers to the use of external programs to write to the command buffer, to either set a certain Dvar or run a certain command.
 
 > [!CAUTION]
 > The only way to detect this is via an external program checking the game's memory.

@@ -25,6 +25,6 @@ This toggles the targeting of zombies to a player.
 The ingame mod system transfers certain aspects of custom maps to normal zombies maps.
 
 > [!CAUTION]
-> While obvious on some stuff, this can easily be abused to become a form of stealth cheating.
+> While obvious on some stuff, this can easily be abused as a form of stealth cheating.
 
 # [Next Page: World at War - Stealth Cheating](./Stealth-Cheating.md)
