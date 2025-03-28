@@ -40,7 +40,7 @@ The following commands/Dvars can be modified or used to cheat:
 | `scr_dog_health_walk_multiplier` |                                      Health multiplier for when hellhounds start running at you.                                      |
 | `factoryAftereffectOverride`     |                                          Controls the teleporter after effect on Der Riese.                                           |
 | `theaterAftereffectOverride`     |                                        Controls the teleporter after effect on Kino Der Toten.                                        |
-| `zombie_unlock_all`              |                     When set to anything above `0` on Moon, you can buy any door you want without losing points.                      |
+| `zombie_unlock_all`              |                     When set to anything above `0` on some maps, you can buy any door without losing points.                          |
 
 ## No Printing
 No printing refers to setting the Dvar `cl_noprint` to `1`, this removes any on screen messages such as god mode toggle states.
