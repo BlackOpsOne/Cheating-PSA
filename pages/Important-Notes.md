@@ -15,4 +15,4 @@ With it you can extract information from the game, such as the next special roun
 > [!CAUTION]
 > This is undetectable without the use of a third party program searching for it. You could also protect the game's memory externally, but that could potentially cause issues for any community made tools.
 
-# [Next Page: The Solutions to Cheating in Zombies](/pages/Solutions-to-Cheating.md)
+# [Next Page: The Solutions to Cheating in Zombies](Solutions-to-Cheating.md)
